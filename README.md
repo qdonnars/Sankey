@@ -12,3 +12,15 @@ python -m http.server 8000
 ```
 
 You will then be able to acces the visalization on your browser http://localhost:8000/
+
+Data sould be named sankey.csv and should be respecting the following format : 
+```
+source,target,value
+Barry,Elvis,2
+Frodo,Elvis,2
+Frodo,Sarah,2
+Barry,Alice,2
+Elvis,Sarah,2
+Elvis,Alice,2
+Sarah,Alice,4
+```
