@@ -1,5 +1,8 @@
-Lounch the server :
-In order to lounch the server we recomand to use a http python one. Run the following command in the main directory :
+# Sankey Server Generator
+
+You have a dataset to display a sankey but python's sankey tool isn't helping... This repo might be for you :)
+
+You will be able in two steps to generateyour interactive sankey : pull the repo, add your data and launch a server.
 
 ```
 git clone https://github.com/qdonnars/Sankey.git
